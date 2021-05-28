@@ -1,0 +1,86 @@
+body{
+margin: 0 auto;
+}
+
+Header{
+Background-color:black;
+Text-align:center;
+Padding:60px;
+font-family: 'Roboto Slab', serif;
+}
+
+a{
+color:White;
+Text-decoration:none;
+}
+
+A:hover{
+Color:#930000;
+}
+
+
+body{
+  Background-color:white;
+}
+
+Footer{
+  display: inline-block;
+  vertical-align:center;
+background-repeat:no-repeat;
+
+}
+
+Div{
+  display: inline-block;
+  vertical-align:center;
+background-repeat:no-repeat;
+}
+
+H1{
+font-family: 'Montserrat', sans-serif;
+Text-align:center;
+Color:#B76767;
+}
+	
+.shingeki1{
+  padding: 50px;
+  margin: auto;
+}
+
+.shingeki1 img{
+  padding: 20px;
+  width: 200px;
+  height: auto;
+  float: right;
+  Margin-left: 10px;
+}
+
+p {
+font-family: 'Montserrat', sans-serif;
+Font-size:20px;
+Color:black;
+Text-align: justify;
+}
+
+H2{
+font-family: 'Montserrat', sans-serif;
+Text-align:center;
+Color:#B76767;
+}
+
+.shingeki2 img{
+  padding: 20px;
+  width: 200px;
+  height: auto;
+  float: center;
+  Margin-left: 10px;
+}
+
+Li{
+font-family: 'Montserrat', sans-serif;
+Font-size:20px;
+Color:black;
+Text-align: justify;
+
+
+}
